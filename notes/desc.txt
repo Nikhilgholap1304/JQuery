@@ -1,0 +1,3 @@
+JQuery is all about write less do more
+
+CDN - Content Deliver Network
